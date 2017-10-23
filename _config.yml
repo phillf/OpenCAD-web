@@ -9,15 +9,15 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: ""
+url: "stormlighttech.github.io/OpenCAD-Web"
 enforce_ssl: ""
-baseurl: "/jekyllBasic"
+baseurl: "/OpenCAD-Web"
 
 # Title of website
-title: Project Name
+title: OpenCAD
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: test1, test2, etc
+keywords: Open Source, Computer Aided Dispatch, Mobile Data Terminal
 
 # Short description of your site
 desc: Sample Description
@@ -38,13 +38,13 @@ nav-links:
 
 # If the values are empty, they are ignored 
 profile:
-  name: Babji Chetty
-  email: Your-Email
-  facebook: your-fb-id
-  github: your-github-id 
-  twitter: your-twitter-id
-  linkedin: your-linkedin-id
-  stackoverflow: your-stackoverflow-id
+  name: Stormlight Tech
+  email: developers@opencad.io
+  facebook: 
+  github: StormlightTech 
+  twitter:
+  linkedin: 
+  stackoverflow: 
 
 # To display link in the footer section
 pretty-url: "bchetty.com"
