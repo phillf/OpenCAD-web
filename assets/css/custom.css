@@ -9,6 +9,7 @@ body {
   padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 80px;
+  background-color:#0000;
 }
 .footer {
   position: absolute;
