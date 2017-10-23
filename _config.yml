@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: "https://opencad.io"
 enforce_ssl: ""
-baseurl: "/OpenCAD-Web"
+baseurl: "/"
 
 # Title of website
 title: OpenCAD
